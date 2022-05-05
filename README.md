@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a Full-stack Software Developer mortar_board Student at Microverse School of Software Development.
+I am currently a Full-stack Software Developer  Student at Microverse School of Software Development.
 
 I am a Full-stack Software Developer with hands-on experience in developing simple, responsive and dynamic websites. I have been exposed to a good number of skill sets that range from software development, linux server administration, and sales. I've gained skills on demand by working on real world projects. I also have great communication skills and remote collaboration skills through pair programming.
 ## Technical Skills
@@ -38,6 +38,7 @@ I am a Full-stack Software Developer with hands-on experience in developing simp
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
+![git](https://img.shields.io/badge/Git-F7DF1E?style=for-the-badge&logo=git&logoColor=black) &nbsp;
 
 
 ## Tests:
