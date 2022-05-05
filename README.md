@@ -21,27 +21,33 @@ I am a Full-stack Software Developer with hands-on experience in developing simp
 
 ## Languages
 &nbsp;
-![javascript](https://img.shields.io/badge/javascript-ES6-blue.svg) &nbsp; 
-![html](https://img.shields.io/badge/html-5-blue.svg) &nbsp;
-![css](https://img.shields.io/badge/css-3-blue.svg) &nbsp;
-![ruby](https://img.shields.io/badge/ruby-2.5.svg) &nbsp;
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; 
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) &nbsp;
 
 ## Databases
 &nbsp;
-![mysql](https://img.shields.io/badge/mysql-5.7-blue.svg) &nbsp;
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 
 ## Frameworks & Tools
 &nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+![tailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
 ![rails](https://img.shields.io/badge/rails-5.2-blue.svg) &nbsp;
-![react](https://img.shields.io/badge/react-16.8-blue.svg) &nbsp;
-![redux](https://img.shields.io/badge/redux-4.0-blue.svg) &nbsp;
-![angular](https://img.shields.io/badge/angular-9.0-blue.svg) &nbsp;
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
+
+
+## Tests:
+&nbsp;
+![jest](https://img.shields.io/badge/Jest-F7DF1E?style=for-the-badge&logo=jest&logoColor=black) &nbsp;
 ## Get In Touch With Me On:
 &nbsp;
 <a target="_blank"
 href="https://www.linkedin.com/in/leonard-kombo-b14532107/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
-
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedInlogoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://twitter.com/@LeonardKombo1"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>  &nbsp;
