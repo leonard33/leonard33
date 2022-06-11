@@ -47,7 +47,7 @@ I am a Full-stack Software Developer with hands-on experience in developing simp
 ## Get In Touch With Me On:
 &nbsp;
 <a target="_blank"
-href="https://www.linkedin.com/in/leonard-kombo-b14532107/"><img
+href="https://www.linkedin.com/in/leonardkombo/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedInlogoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://twitter.com/@LeonardKombo1"><img
